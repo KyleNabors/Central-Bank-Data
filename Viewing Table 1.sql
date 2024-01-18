@@ -1,0 +1,3 @@
+SELECT * 
+FROM BEIGEBOOK 
+WHERE doc_num = 'Fed1'
